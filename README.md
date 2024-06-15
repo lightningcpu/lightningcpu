@@ -3,7 +3,7 @@
     <img src="https://i.ibb.co/d512vyJ/lightning.gif" alt="MasterHead" width="1000" height="350">
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Daniel Saynov</h1>
+<h1 align="center">Lightning CPU</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" src="https://i.ibb.co/bRTDgQy/api.gif" alt="About Gif" width="350">
 
