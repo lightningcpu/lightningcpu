@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://danielsaynov.com">
-    <img src="https://i.ibb.co/d512vyJ/lightning.gif" alt="MasterHead" style="width: 80%; max-width: 600px;">
+    <img src="https://i.ibb.co/d512vyJ/lightning.gif" alt="MasterHead" width="500">
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Daniel Saynov</h1>
