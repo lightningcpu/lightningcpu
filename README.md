@@ -1,4 +1,8 @@
-[![MasterHead](https://i.ibb.co/d512vyJ/lightning.gif)](https://danielsaynov.com)
+<div style="text-align: center;">
+  <a href="https://danielsaynov.com">
+    <img src="https://i.ibb.co/d512vyJ/lightning.gif" alt="MasterHead" style="width: 80%; max-width: 600px;">
+  </a>
+</div>
 <h1 align="center">Hi 👋, I'm Daniel Saynov</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" src="https://i.ibb.co/bRTDgQy/api.gif" alt="About Gif" width="350">
