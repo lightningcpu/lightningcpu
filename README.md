@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://danielsaynov.com">
-    <img src="https://i.ibb.co/d512vyJ/lightning.gif" alt="MasterHead" width="1000" height="300">
+    <img src="https://i.ibb.co/d512vyJ/lightning.gif" alt="MasterHead" width="800" height="300">
   </a>
 </div>
 <h1 align="center">Lightning CPU</h1>
