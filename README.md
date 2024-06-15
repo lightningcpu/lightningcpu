@@ -1,7 +1,7 @@
-[![MasterHead](https://i.gifer.com/7Oqh.gif)](https://danielsaynov.com)
+[![MasterHead](https://i.ibb.co/d512vyJ/lightning.gif)](https://danielsaynov.com)
 <h1 align="center">Hi 👋, I'm Daniel Saynov</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" src="https://i.ibb.co/bRTDgQy/api.gif" alt="About Gif" width="400">
+<img align="right" src="https://i.ibb.co/bRTDgQy/api.gif" alt="About Gif" width="350">
 
 - 🔭 I’m currently working on [Notification Alerter](https://github.com/lightningcpu/Notification-Alerter)
 
